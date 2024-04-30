@@ -1,0 +1,160 @@
+.container{
+    background: linear-gradient(to right,rgb(243, 191, 200),rgb(207, 205, 202),rgb(101, 210, 253));
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maintodobg{
+    background-color:white;
+    width: 950px;
+    height:500px;
+    border-radius: 20px;
+    margin-top: -100px;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+h1 img{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+
+.container{
+    background: linear-gradient(to right,rgb(243, 191, 200),rgb(207, 205, 202),rgb(101, 210, 253));
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maintodobg{
+    background-color:white;
+    width: 950px;
+    height:800px;
+    border-radius: 20px;
+    margin-top: -100px;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    font-size: 30px;
+    margin-left: 30px;
+}
+
+h1 img{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+}
+
+.additemsinput{
+    background-color: #fff9f9;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 30px;
+    margin: 25px;
+}
+
+.myinputbox{
+    background-color:transparent;
+    color: black;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 22px;
+    flex:1;
+   
+}
+
+.mybutton{
+    width: 150px;
+    background-color: rgb(42, 156, 223);
+    border-width: 0px;
+    border-radius: 60px;
+    color:white;
+    font-size: 22px;
+    margin: 0px;
+    cursor: pointer;
+}
+
+ul li{
+    padding:10px;
+    margin-left: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.label-container {
+    background-color: #e6f6ff;
+    width: 100%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #096f92;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-radius: 4px;
+    margin-right: 40px;
+    height:50px;
+    cursor: pointer;
+}
+
+.mycheck{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+
+.mylabel{
+    padding:5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.delete-icon {
+    text-align: right;
+    margin-left: auto;
+    padding: 10px;
+    height: 30px;
+    cursor: pointer;
+  }
+
+.checked{
+    text-decoration: line-through;
+}
+
+.mySavebutton{
+    width: 150px;
+    background-color: rgb(42, 156, 223);
+    border-width: 0px;
+    border-radius: 60px;
+    color:white;
+    font-size: 22px;
+    margin-left: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    height:50px;
+}
